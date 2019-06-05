@@ -1,0 +1,7 @@
+terraform.tfstate
+terraform.tfstate.backup
+kubeconfig1
+kubeconfig2
+configmap-cluster1.yaml
+configmap-cluster2.yaml
+.terraform
